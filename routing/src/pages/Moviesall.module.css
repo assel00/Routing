@@ -1,0 +1,13 @@
+*{box-sizing: border-box}
+.container{
+    display: flex;
+    background-color: lightblue;
+    justify-content: space-around;
+    height: 645px;
+    align-items: center;
+}
+h1{
+    margin: 20px 70px;
+
+    padding: 5px 7px;
+}

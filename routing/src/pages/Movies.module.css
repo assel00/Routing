@@ -1,0 +1,21 @@
+*{box-sizing: border-box}
+.Movies{
+    display: flex;
+    background-color: lightblue;
+    justify-content: space-around;
+    height: 645px;
+    align-items: center;
+}
+span{
+    margin: 20px 70px;
+    border: 1px solid cadetblue;
+    border-radius: 7px;
+    padding: 5px 7px;
+}
+span:hover{
+    background-color: cadetblue;
+}
+.links{
+    text-decoration: none;
+    color: black;
+}
